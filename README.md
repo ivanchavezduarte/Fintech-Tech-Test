@@ -1,4 +1,4 @@
-# Prueba Tecnica Paigo
+# Prueba Tecnica
 
 ![image](https://user-images.githubusercontent.com/78714438/184578928-32d3ccdb-9e21-4fc0-9328-a1f1ed997f3d.png)
 
