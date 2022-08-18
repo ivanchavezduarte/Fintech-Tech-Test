@@ -39,7 +39,11 @@ Personalmente hice 5 Tableros
 
 ## 3.	Prestamos
 
-![image](https://user-images.githubusercontent.com/78714438/184578997-23b1cf3b-2630-449d-a035-a777e85831bb.png)
+>![image](https://user-images.githubusercontent.com/78714438/184578997-23b1cf3b-2630-449d-a035-a777e85831bb.png)
+
+### Medidas Prestamos
+
+>![image](https://user-images.githubusercontent.com/78714438/185276797-51304c38-dfcb-4025-9da2-f9177c9a51de.png)
 
 ## 4.	Abandonos
 
