@@ -2,10 +2,15 @@
 
 Presento los resultados de una prueba técnica queme fue asignada hace unos días (No voy a mencionar a la empresa), lo que sí, es una Fintech.
 En la misma se proporcionan 4 Archivos Excel:
-1.	Atributos Clientes
+1.	***Atributos Clientes***
 2.	Solicitudes
 3.	Préstamos
 4.	Descripción de las tablas (un glosario con el detalle de cada tabla)
+
+Adicional en el proceso cree dos tablas más:
+5.	Abandonos, creada a partir de las solicitudes de crédito aprobadas pero que lo clientes decidieron rechazar.
+6.	Calendario Pagos, dentro de la tabla de Prestamos hay 3 columnas con las que arme el calendario de pagos, Primer Vencimiento, Ultimo Vencimiento y Cantidad de Cuotas.
+
 
 
 ![image](https://user-images.githubusercontent.com/78714438/184578928-32d3ccdb-9e21-4fc0-9328-a1f1ed997f3d.png)
