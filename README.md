@@ -36,7 +36,6 @@ Personalmente hice 5 Tableros
 
 > ![image](https://user-images.githubusercontent.com/78714438/185275809-687a795a-c309-4de7-a089-fab02fca57e3.png)
 
-
 ## 3.	Prestamos
 
 >![image](https://user-images.githubusercontent.com/78714438/184578997-23b1cf3b-2630-449d-a035-a777e85831bb.png)
@@ -47,7 +46,11 @@ Personalmente hice 5 Tableros
 
 ## 4.	Abandonos
 
-![image](https://user-images.githubusercontent.com/78714438/184579925-954f7af6-2450-492b-9629-f683b0d537da.png)
+>![image](https://user-images.githubusercontent.com/78714438/184579925-954f7af6-2450-492b-9629-f683b0d537da.png)
+
+### Medidas Abandonos
+
+>![image](https://user-images.githubusercontent.com/78714438/185278416-e3ac2a22-dd9b-42af-9c47-6f94d33957d0.png)
 
 ## 5.	Recaudación
 
