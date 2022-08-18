@@ -69,10 +69,6 @@ Personalmente hice 5 Tableros
 
 <li>Histórico por de Aprobaciones por canal.</li>
 
-#### Un gráfico de líneas:
-
-<li>Histórico por de Aprobaciones por canal.</li>
-
 #### Dos graficas de barras 100% apiladas
 
 <li>Distribución de Aprobaciones por canal y Clasificación Crediticia.</li>
