@@ -1,6 +1,6 @@
 # 🚧 EN CONSTRUCCIÓN 🚧
 
-# **Prueba Tecnica**
+# **Prueba Técnica**
 
 Presento los resultados de una prueba técnica queme fue asignada hace unos días (No voy a mencionar a la empresa), lo que sí, es una Fintech.
 En la misma se proporcionan 4 Archivos Excel:
