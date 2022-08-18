@@ -14,6 +14,10 @@ Adicional en el proceso cree dos tablas más:
 
 La instrucción era, sacar todos los **Insigh** posibles y su respectiva explicación dentro de una presentación de Power Point.
 
+## Columnas Calculadas
+
+>![image](https://user-images.githubusercontent.com/78714438/185283927-71508631-aa66-487f-a8fc-58c834aa17e0.png)
+
 Personalmente hice 5 Tableros 
 
 ## 1.	Solicitudes
@@ -32,13 +36,17 @@ Personalmente hice 5 Tableros
 <li>Solicitudes por Zona Geográfica</li>
 <li>Solicitudes por Canal de Contacto</li>
 
-## Columnas Calculadas
+#### Un gráfico de línea 
 
->![image](https://user-images.githubusercontent.com/78714438/185283927-71508631-aa66-487f-a8fc-58c834aa17e0.png)
+<li>Hisotirco de solicitudes Aprobadas y Rechazadas</li>
+
+
+#### Una Tabla 
+
+<li>Con el detalle de todos los clientes que realizaron solicitudes</li>
 
 
 # Tablero
-
 
 >![image](https://user-images.githubusercontent.com/78714438/184578928-32d3ccdb-9e21-4fc0-9328-a1f1ed997f3d.png)
 
