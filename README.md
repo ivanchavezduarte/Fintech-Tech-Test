@@ -18,6 +18,20 @@ Personalmente hice 5 Tableros
 
 ## 1.	Solicitudes
 
+<p>En este tablero plasmé todo lo relacionado a las solicitudes de crédito</p>
+
+###### Una tarjeta con:
+<li>Total de solicitudes</li>
+<li>Solicitudes Aprobadas</li>
+<li>Solicitudes Recahzadas</li>
+
+#### Cuatro graficas de barras 100% apiladas, donde se detalla el total de solicitudes por Atributo segementdas en %Aprobadas y %Rechazadas;
+
+<li>Solicitudes por Clasificación (Rango Crediticio)</li>
+<li>Solicitudes por Rango Etario</li>
+<li>Solicitudes por Zona Geográfica</li>
+<li>Solicitudes por Canal de Contacto</li>
+
 >![image](https://user-images.githubusercontent.com/78714438/184578928-32d3ccdb-9e21-4fc0-9328-a1f1ed997f3d.png)
 
 ### Medidas Solicitudes
