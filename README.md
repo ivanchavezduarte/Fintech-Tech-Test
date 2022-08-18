@@ -1,10 +1,10 @@
-# Prueba Tecnica
+# **Prueba Tecnica**
 
 Presento los resultados de una prueba técnica queme fue asignada hace unos días (No voy a mencionar a la empresa), lo que sí, es una Fintech.
 En la misma se proporcionan 4 Archivos Excel:
-1.	**Atributos Clientes
-2.	**Solicitudes
-3.	**Préstamos
+1.	**Atributos Clientes**
+2.	**Solicitudes**
+3.	**Préstamos**
 4.	**Descripción de las tablas** (un glosario con el detalle de cada tabla)
 
 Adicional en el proceso cree dos tablas más:
