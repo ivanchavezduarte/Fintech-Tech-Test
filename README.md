@@ -26,15 +26,15 @@ Personalmente hice 5 Tableros
 
 ## 2.	Caneles
 
-![image](https://user-images.githubusercontent.com/78714438/184580071-3497f486-54ab-4ff1-b720-a452e1acaed6.png)
+>![image](https://user-images.githubusercontent.com/78714438/184580071-3497f486-54ab-4ff1-b720-a452e1acaed6.png)
 
 ### Medidas Canales
 
-> [image](https://user-images.githubusercontent.com/78714438/185273789-208ccfa1-92db-49c8-86f0-8a9a7c8ea065.png)
+> ![image](https://user-images.githubusercontent.com/78714438/185273789-208ccfa1-92db-49c8-86f0-8a9a7c8ea065.png)
 
-> [image](https://user-images.githubusercontent.com/78714438/185273789-208ccfa1-92db-49c8-86f0-8a9a7c8ea065.png)
+> ![image](https://user-images.githubusercontent.com/78714438/185273789-208ccfa1-92db-49c8-86f0-8a9a7c8ea065.png)
 
->[image](https://user-images.githubusercontent.com/78714438/185273789-208ccfa1-92db-49c8-86f0-8a9a7c8ea065.png)
+> ![image](https://user-images.githubusercontent.com/78714438/185273789-208ccfa1-92db-49c8-86f0-8a9a7c8ea065.png)
 
 
 ## 3.	Prestamos
