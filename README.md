@@ -18,6 +18,10 @@ La instrucción era, sacar todos los **Insigh** posibles y su respectiva explica
 
 >![image](https://user-images.githubusercontent.com/78714438/185283927-71508631-aa66-487f-a8fc-58c834aa17e0.png)
 
+
+# Tablero
+
+
 Personalmente hice 5 Tableros 
 
 ## 1.	Solicitudes
@@ -38,15 +42,11 @@ Personalmente hice 5 Tableros
 
 #### Un gráfico de línea 
 
-<li>Hisotirco de solicitudes Aprobadas y Rechazadas</li>
-
+<li>Histórico de solicitudes Aprobadas y Rechazadas</li>
 
 #### Una Tabla 
 
 <li>Con el detalle de todos los clientes que realizaron solicitudes</li>
-
-
-# Tablero
 
 >![image](https://user-images.githubusercontent.com/78714438/184578928-32d3ccdb-9e21-4fc0-9328-a1f1ed997f3d.png)
 
@@ -55,6 +55,28 @@ Personalmente hice 5 Tableros
 >![image](https://user-images.githubusercontent.com/78714438/185272944-920dc91c-0945-46f2-906f-12a31244a073.png)
 
 ## 2.	Caneles
+
+#### Tres tarjetas con:
+<li>Total de solicitudes Web, solicitudes Aprobadas y el % de conversión</li>
+<li>Total de solicitudes WhatsApp, solicitudes Aprobadas y el % de conversión</li>
+<li>Total de solicitudes Facebook, solicitudes Aprobadas y el % de conversión</li>
+
+#### Un gráfico de barras:
+
+<li>Distribución por Rango Etario de solicitudes Aprobadas por Canal.</li>
+
+#### Un gráfico de líneas:
+
+<li>Histórico por de Aprobaciones por canal.</li>
+
+#### Un gráfico de líneas:
+
+<li>Histórico por de Aprobaciones por canal.</li>
+
+#### Dos graficas de barras 100% apiladas
+
+<li>Distribución de Aprobaciones por canal y Clasificación Crediticia.</li>
+<li>Distribución de Aprobaciones por canal y Zona Geográfica.</li>
 
 >![image](https://user-images.githubusercontent.com/78714438/184580071-3497f486-54ab-4ff1-b720-a452e1acaed6.png)
 
