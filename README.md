@@ -10,7 +10,7 @@ En la misma se proporcionan 4 Archivos Excel:
 Adicional en el proceso cree dos tablas más:
 
 5.	**Abandonos**, creada a partir de las solicitudes de crédito aprobadas pero que lo clientes decidieron rechazar.
-6.	**Calendario** Pagos, dentro de la tabla de Prestamos hay 3 columnas con las que arme el calendario de pagos, Primer Vencimiento, Ultimo Vencimiento y Cantidad de Cuotas.
+6.	**Calendario Pagos**, dentro de la tabla de Prestamos hay 3 columnas con las que arme el calendario de pagos, Primer Vencimiento, Ultimo Vencimiento y Cantidad de Cuotas.
 
 La instrucción era, sacar todos los **Insigh** posibles y su respectiva explicación dentro de una presentación de Power Point.
 
@@ -18,7 +18,7 @@ Personalmente hice 5 Tableros
 
 ## 1.	Solicitudes
 
-![image](https://user-images.githubusercontent.com/78714438/184578928-32d3ccdb-9e21-4fc0-9328-a1f1ed997f3d.png)
+>![image](https://user-images.githubusercontent.com/78714438/184578928-32d3ccdb-9e21-4fc0-9328-a1f1ed997f3d.png)
 
 ## 2.	Caneles
 
