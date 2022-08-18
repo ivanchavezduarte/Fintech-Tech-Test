@@ -8,6 +8,7 @@ En la misma se proporcionan 4 Archivos Excel:
 4.	**Descripción de las tablas** (un glosario con el detalle de cada tabla)
 
 Adicional en el proceso cree dos tablas más:
+
 5.	**Abandonos**, creada a partir de las solicitudes de crédito aprobadas pero que lo clientes decidieron rechazar.
 6.	**Calendario** Pagos, dentro de la tabla de Prestamos hay 3 columnas con las que arme el calendario de pagos, Primer Vencimiento, Ultimo Vencimiento y Cantidad de Cuotas.
 
