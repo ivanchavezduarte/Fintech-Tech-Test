@@ -20,6 +20,10 @@ Personalmente hice 5 Tableros
 
 >![image](https://user-images.githubusercontent.com/78714438/184578928-32d3ccdb-9e21-4fc0-9328-a1f1ed997f3d.png)
 
+### Medidas Solicitudes
+
+<img width="920" alt="Medidas Solicitudes" src="https://user-images.githubusercontent.com/78714438/185272944-920dc91c-0945-46f2-906f-12a31244a073.png">
+
 ## 2.	Caneles
 
 ![image](https://user-images.githubusercontent.com/78714438/184580071-3497f486-54ab-4ff1-b720-a452e1acaed6.png)
