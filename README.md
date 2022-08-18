@@ -20,7 +20,7 @@ Personalmente hice 5 Tableros
 
 <p>En este tablero plasmé todo lo relacionado a las solicitudes de crédito</p>
 
-###### Una tarjeta con:
+#### Una tarjeta con:
 <li>Total de solicitudes</li>
 <li>Solicitudes Aprobadas</li>
 <li>Solicitudes Recahzadas</li>
@@ -31,6 +31,14 @@ Personalmente hice 5 Tableros
 <li>Solicitudes por Rango Etario</li>
 <li>Solicitudes por Zona Geográfica</li>
 <li>Solicitudes por Canal de Contacto</li>
+
+## Columnas Calculadas
+
+>![image](https://user-images.githubusercontent.com/78714438/185283927-71508631-aa66-487f-a8fc-58c834aa17e0.png)
+
+
+# Tablero
+
 
 >![image](https://user-images.githubusercontent.com/78714438/184578928-32d3ccdb-9e21-4fc0-9328-a1f1ed997f3d.png)
 
