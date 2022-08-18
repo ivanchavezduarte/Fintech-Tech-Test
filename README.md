@@ -32,9 +32,9 @@ Personalmente hice 5 Tableros
 
 > ![image](https://user-images.githubusercontent.com/78714438/185273789-208ccfa1-92db-49c8-86f0-8a9a7c8ea065.png)
 
-> ![image](https://user-images.githubusercontent.com/78714438/185273789-208ccfa1-92db-49c8-86f0-8a9a7c8ea065.png)
+> ![image](https://user-images.githubusercontent.com/78714438/185275574-5b351748-4f4b-4ce9-be8e-18fd463d7300.png)
 
-> ![image](https://user-images.githubusercontent.com/78714438/185273789-208ccfa1-92db-49c8-86f0-8a9a7c8ea065.png)
+> ![image](https://user-images.githubusercontent.com/78714438/185275809-687a795a-c309-4de7-a089-fab02fca57e3.png)
 
 
 ## 3.	Prestamos
